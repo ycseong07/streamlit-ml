@@ -1,7 +1,7 @@
 # streamlit-ml
 
 ## Development Stacks
-OS: window
+OS: window  
 Prerequisite: Docker Desktop, VS Code
 
 ## Instruction
