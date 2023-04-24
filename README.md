@@ -13,3 +13,8 @@ Prerequisite: Docker Desktop, VS Code
 ```
 pip install streamlit
 ```
+
+<details>
+  <summary>Click to expand</summary>
+  whatever
+</details>
